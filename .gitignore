@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+
+# Python caches and build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Runtime outputs
+results/
+
+# Local datasets: keep only the small metadata CSVs used by examples.
+data/*
+!data/
+!data/malidup_hec.csv
+!data/malisam_hec.csv
+!data/scope40-test.fasta
