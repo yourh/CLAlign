@@ -1,0 +1,8 @@
+{
+  "pair_id": "d1cs1a_d1q8ia1",
+  "sequence1": "AGAVLTNTGMSAIHLVTTVFLDLVLHSCTKYLNGHSDVVAGVVIAKDPDVVTELAWWANNIGVTG",
+  "sequence2": "QESVAFIPADQVPRAQHILQGEQGFRLTPLALKDFHRQPVYGLYCRAHRQLMNYEKRLREGGVTVYEADVR",
+  "source": "data/malisam.csv",
+  "row_axis": "sequence1, 65 tokens",
+  "column_axis": "sequence2, 71 tokens"
+}

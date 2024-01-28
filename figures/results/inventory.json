@@ -1,0 +1,376 @@
+{
+  "datasets": {
+    "malidup": {
+      "manual": {
+        "metric_rows": 241,
+        "field_counts": [
+          5
+        ],
+        "source_alignment_files": 241,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      },
+      "plmblast": {
+        "metric_rows": 241,
+        "field_counts": [
+          7
+        ],
+        "source_alignment_files": 241,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      },
+      "plmalign": {
+        "metric_rows": 241,
+        "field_counts": [
+          7
+        ],
+        "source_alignment_files": 241,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      },
+      "eba": {
+        "metric_rows": 241,
+        "field_counts": [
+          7
+        ],
+        "source_alignment_files": 241,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      },
+      "deepblast": {
+        "metric_rows": 241,
+        "field_counts": [
+          7
+        ],
+        "source_alignment_files": 241,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      },
+      "tea-nw": {
+        "metric_rows": 241,
+        "field_counts": [
+          7
+        ],
+        "source_alignment_files": 241,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      },
+      "clalign-prott5": {
+        "metric_rows": 241,
+        "field_counts": [
+          7
+        ],
+        "source_alignment_files": 241,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      },
+      "fast": {
+        "metric_rows": 241,
+        "field_counts": [
+          5
+        ],
+        "source_alignment_files": 241,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      },
+      "tmalign": {
+        "metric_rows": 241,
+        "field_counts": [
+          5
+        ],
+        "source_alignment_files": 241,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      },
+      "dali": {
+        "metric_rows": 241,
+        "field_counts": [
+          5
+        ],
+        "source_alignment_files": 234,
+        "missing_source_alignment_ids": [
+          "d1anv_2",
+          "d1d5ya1",
+          "d1df9c_",
+          "d1fga___2",
+          "d1hg7a_",
+          "d1kg1a_",
+          "d1lpba1"
+        ],
+        "zero_tm_ids": [
+          "d1anv_2",
+          "d1d5ya1",
+          "d1df9c_",
+          "d1fga___2",
+          "d1hg7a_",
+          "d1kg1a_",
+          "d1lpba1"
+        ],
+        "included_alignment_files": 0
+      },
+      "gtalign": {
+        "metric_rows": 241,
+        "field_counts": [
+          5
+        ],
+        "source_alignment_files": 241,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      },
+      "clalign-esmif": {
+        "metric_rows": 241,
+        "field_counts": [
+          5
+        ],
+        "source_alignment_files": 241,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      }
+    },
+    "malisam": {
+      "manual": {
+        "metric_rows": 130,
+        "field_counts": [
+          5
+        ],
+        "source_alignment_files": 130,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      },
+      "plmblast": {
+        "metric_rows": 130,
+        "field_counts": [
+          7
+        ],
+        "source_alignment_files": 130,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      },
+      "plmalign": {
+        "metric_rows": 130,
+        "field_counts": [
+          7
+        ],
+        "source_alignment_files": 130,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      },
+      "eba": {
+        "metric_rows": 130,
+        "field_counts": [
+          7
+        ],
+        "source_alignment_files": 130,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      },
+      "deepblast": {
+        "metric_rows": 130,
+        "field_counts": [
+          7
+        ],
+        "source_alignment_files": 130,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      },
+      "tea-nw": {
+        "metric_rows": 130,
+        "field_counts": [
+          7
+        ],
+        "source_alignment_files": 130,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      },
+      "clalign-prott5": {
+        "metric_rows": 130,
+        "field_counts": [
+          7
+        ],
+        "source_alignment_files": 130,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      },
+      "fast": {
+        "metric_rows": 130,
+        "field_counts": [
+          5
+        ],
+        "source_alignment_files": 130,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      },
+      "tmalign": {
+        "metric_rows": 130,
+        "field_counts": [
+          5
+        ],
+        "source_alignment_files": 130,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      },
+      "dali": {
+        "metric_rows": 130,
+        "field_counts": [
+          5
+        ],
+        "source_alignment_files": 130,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      },
+      "gtalign": {
+        "metric_rows": 130,
+        "field_counts": [
+          5
+        ],
+        "source_alignment_files": 130,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      },
+      "clalign-esmif": {
+        "metric_rows": 130,
+        "field_counts": [
+          5
+        ],
+        "source_alignment_files": 130,
+        "missing_source_alignment_ids": [],
+        "zero_tm_ids": [],
+        "included_alignment_files": 0
+      }
+    },
+    "scope40201": {
+      "plmblast": {
+        "score_rows": 4870849,
+        "unique_queries": 2207,
+        "unique_targets": 2207,
+        "unique_pairs": 4870849,
+        "hits_per_query": 2207,
+        "self_hits": 2207,
+        "duplicate_pairs": 0,
+        "nonfinite_scores": 0,
+        "curve_queries": 766,
+        "included_score_rows": 0,
+        "curve_table_included": true
+      },
+      "plmalign": {
+        "score_rows": 4870849,
+        "unique_queries": 2207,
+        "unique_targets": 2207,
+        "unique_pairs": 4870849,
+        "hits_per_query": 2207,
+        "self_hits": 2207,
+        "duplicate_pairs": 0,
+        "nonfinite_scores": 0,
+        "curve_queries": 766,
+        "included_score_rows": 0,
+        "curve_table_included": true
+      },
+      "eba": {
+        "score_rows": 4870849,
+        "unique_queries": 2207,
+        "unique_targets": 2207,
+        "unique_pairs": 4870849,
+        "hits_per_query": 2207,
+        "self_hits": 2207,
+        "duplicate_pairs": 0,
+        "nonfinite_scores": 0,
+        "curve_queries": 766,
+        "included_score_rows": 0,
+        "curve_table_included": true
+      },
+      "tea": {
+        "score_rows": 4870849,
+        "unique_queries": 2207,
+        "unique_targets": 2207,
+        "unique_pairs": 4870849,
+        "hits_per_query": 2207,
+        "self_hits": 2207,
+        "duplicate_pairs": 0,
+        "nonfinite_scores": 0,
+        "curve_queries": 766,
+        "included_score_rows": 0,
+        "curve_table_included": true
+      },
+      "tmalign": {
+        "score_rows": 4870849,
+        "unique_queries": 2207,
+        "unique_targets": 2207,
+        "unique_pairs": 4870849,
+        "hits_per_query": 2207,
+        "self_hits": 2207,
+        "duplicate_pairs": 0,
+        "nonfinite_scores": 0,
+        "curve_queries": 766,
+        "included_score_rows": 0,
+        "curve_table_included": true
+      },
+      "gtalign": {
+        "score_rows": 4870849,
+        "unique_queries": 2207,
+        "unique_targets": 2207,
+        "unique_pairs": 4870849,
+        "hits_per_query": 2207,
+        "self_hits": 2207,
+        "duplicate_pairs": 0,
+        "nonfinite_scores": 0,
+        "curve_queries": 766,
+        "included_score_rows": 0,
+        "curve_table_included": true
+      },
+      "clalign-prott5": {
+        "score_rows": 4870849,
+        "unique_queries": 2207,
+        "unique_targets": 2207,
+        "unique_pairs": 4870849,
+        "hits_per_query": 2207,
+        "self_hits": 2207,
+        "duplicate_pairs": 0,
+        "nonfinite_scores": 0,
+        "curve_queries": 766,
+        "included_score_rows": 0,
+        "curve_table_included": true
+      }
+    }
+  },
+  "scope_semantics": "SCOPe .rocx tables contain per-query sensitivities; raw all-versus-all score tables are not included",
+  "omitted_mali_alignment_files": 4445,
+  "layout": {
+    "mali_pair_alignments_included": false,
+    "mali_alignment_sources": "Retained locally; available on reviewer request",
+    "mali_metric_tables_included": true,
+    "scope_score_tables_included": false,
+    "eba_verification_included": false,
+    "figure_formats": [
+      "pdf"
+    ],
+    "results_directory": "figures/results",
+    "reference_paths": [
+      "data/malidup_hec.csv",
+      "data/malisam_hec.csv",
+      "data/scope40-test.fasta"
+    ]
+  },
+  "included_method_result_files": 31
+}

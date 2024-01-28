@@ -1,0 +1,206 @@
+[
+  {
+    "path": "figures/results/malidup/manual.txt",
+    "source": "research/results/malidup/manual.txt",
+    "bytes": 6811,
+    "sha256": "7a471b2b980efc67b555a4746220df7ac198e8e1b979d3af3f7688e0c4662320"
+  },
+  {
+    "path": "figures/results/malidup/plmblast.txt",
+    "source": "research/results/malidup/plmblast.txt",
+    "bytes": 26482,
+    "sha256": "e6648aa27e4f016a354f28936a4d3cf199306e3d8dda2e34bc264924ae5d9d65"
+  },
+  {
+    "path": "figures/results/malidup/plmalign.txt",
+    "source": "research/results/malidup/plmalign.txt",
+    "bytes": 26271,
+    "sha256": "064f518bbecb5a72e6a29f74ef9f11376979cfafbc607543a259c2dfcd211625"
+  },
+  {
+    "path": "figures/results/malidup/eba.txt",
+    "source": "research/results/malidup/eba.txt",
+    "bytes": 26229,
+    "sha256": "5b84ee415eb9e31684c0f194e17d591aa9ad428af23168e1ccc311dac3e8a20c"
+  },
+  {
+    "path": "figures/results/malidup/deepblast.txt",
+    "source": "research/results/malidup/deepblast.txt",
+    "bytes": 26101,
+    "sha256": "2959f44415389c7296653d90ceade684ae2aaeda6c4bfe722a39d7065df7bcc4"
+  },
+  {
+    "path": "figures/results/malidup/tea-nw.txt",
+    "source": "research/results/malidup/tea-nw.txt",
+    "bytes": 18419,
+    "sha256": "4f01cdd4295454f17e228a5190e1192386bb9ff5537a665efe53216a5cfb1856"
+  },
+  {
+    "path": "figures/results/malidup/clalign-prott5.txt",
+    "source": "research/results/malidup/clalign-prott5.txt",
+    "bytes": 26279,
+    "sha256": "e97f2412b2f1c5d2758a4778a9e9d0f337ad81fc4ddd2d665db66e8269e0c353"
+  },
+  {
+    "path": "figures/results/malidup/fast.txt",
+    "source": "research/results/malidup/fast.txt",
+    "bytes": 17311,
+    "sha256": "579fd104013b2f8a38117070ea61f0896645175a5470106321a5495d361f8c9b"
+  },
+  {
+    "path": "figures/results/malidup/tmalign.txt",
+    "source": "research/results/malidup/tmalign.txt",
+    "bytes": 17047,
+    "sha256": "1dbf09e7c9aca53df8e4be1a940e20d5c8e91b9b9d7e2cfa2f18c3d0ef0d8939"
+  },
+  {
+    "path": "figures/results/malidup/dali.txt",
+    "source": "research/results/malidup/dali.txt",
+    "bytes": 17188,
+    "sha256": "c1411a7e237859c7956125bcbd25b277c5d216ec1b6b488570d4d29df0c0b8e0"
+  },
+  {
+    "path": "figures/results/malidup/gtalign.txt",
+    "source": "research/results/malidup/gtalign.txt",
+    "bytes": 17095,
+    "sha256": "4c8402a48931a2b7a6c48315321d6d303e0afb2989d33aa18511412c2bf5704c"
+  },
+  {
+    "path": "figures/results/malidup/clalign-esmif.txt",
+    "source": "research/results/malidup/clalign-esmif.txt",
+    "bytes": 17523,
+    "sha256": "f02f7f9c493e36dcf0d03ba74cd33a95d8548f0721381e976fcccf15e30a27b7"
+  },
+  {
+    "path": "figures/results/malisam/manual.txt",
+    "source": "research/results/malisam/manual.txt",
+    "bytes": 4533,
+    "sha256": "b18fc77cf8db4072d090fdb7aff35da9538630e27478926d9acacb11610bd302"
+  },
+  {
+    "path": "figures/results/malisam/plmblast.txt",
+    "source": "research/results/malisam/plmblast.txt",
+    "bytes": 14088,
+    "sha256": "6dbab06929fb42158d110db4527b2e45c1462fd2b148b09461f607811db35ff8"
+  },
+  {
+    "path": "figures/results/malisam/plmalign.txt",
+    "source": "research/results/malisam/plmalign.txt",
+    "bytes": 14166,
+    "sha256": "dbdffdace8bdcc4dbe17de9357f36f53e3b3303867bcb1f327ff61af0bfce80f"
+  },
+  {
+    "path": "figures/results/malisam/eba.txt",
+    "source": "research/results/malisam/eba.txt",
+    "bytes": 14121,
+    "sha256": "df58107f7dbbeefb9b2c9eeaf279489f7df92e8781acdb9754ad031ac4b0e960"
+  },
+  {
+    "path": "figures/results/malisam/deepblast.txt",
+    "source": "research/results/malisam/deepblast.txt",
+    "bytes": 13709,
+    "sha256": "9382b7c82a64af426ac8c4a0a34f4fc973bcb953b7a924d924b7954f24dadc2f"
+  },
+  {
+    "path": "figures/results/malisam/tea-nw.txt",
+    "source": "research/results/malisam/tea-nw.txt",
+    "bytes": 9957,
+    "sha256": "d34c8e34792a23d04341c97f34ff7437456366cec390f015c0dddefb25b535b7"
+  },
+  {
+    "path": "figures/results/malisam/clalign-prott5.txt",
+    "source": "research/results/malisam/clalign-prott5.txt",
+    "bytes": 14101,
+    "sha256": "5768bcf51216f694e73f373c8cf2c8e5993b6d0cb696444058cd154468f7008d"
+  },
+  {
+    "path": "figures/results/malisam/fast.txt",
+    "source": "research/results/malisam/fast.txt",
+    "bytes": 9711,
+    "sha256": "a15aac0bdcc53a4e39fb341d0088aa6eda4952595a75236bf0619cd16a5e4d57"
+  },
+  {
+    "path": "figures/results/malisam/tmalign.txt",
+    "source": "research/results/malisam/tmalign.txt",
+    "bytes": 9167,
+    "sha256": "c9ad839b9ccc93f848a61c6f8888840302702f00cb1edf0a7e9648deb312b04b"
+  },
+  {
+    "path": "figures/results/malisam/dali.txt",
+    "source": "research/results/malisam/dali.txt",
+    "bytes": 9562,
+    "sha256": "903c7f9d87d3355977789b077d93cb2b749b3ef0febf51ca95dfb5d475e34da8"
+  },
+  {
+    "path": "figures/results/malisam/gtalign.txt",
+    "source": "research/results/malisam/gtalign.txt",
+    "bytes": 9421,
+    "sha256": "f35f45f6563c069ee7dc352c2e06f99727cc7561f4709e5923d9d588eaaf1ddb"
+  },
+  {
+    "path": "figures/results/malisam/clalign-esmif.txt",
+    "source": "research/results/malisam/clalign-esmif.txt",
+    "bytes": 10310,
+    "sha256": "776ea6fe7d377b21e192f3814703599e69d23c0e32c65c9fdd90f51e5b90b1a2"
+  },
+  {
+    "path": "figures/results/scope40201/plmblast.rocx",
+    "source": "research/results/scope40201/plmblast.rocx",
+    "bytes": 38688,
+    "sha256": "7d4f36f412dc1da458d0641877ae99525b39dec1fd4181ee918944160881797c"
+  },
+  {
+    "path": "figures/results/scope40201/plmalign.rocx",
+    "source": "research/results/scope40201/plmalign.rocx",
+    "bytes": 38676,
+    "sha256": "07a126ca5b641237863fb660e167832e8e267743b12e1bb58372deea4e1af674"
+  },
+  {
+    "path": "figures/results/scope40201/eba.rocx",
+    "source": "research/results/scope40201/eba.rocx",
+    "bytes": 38566,
+    "sha256": "60a683db2aaa1a6ce93e6bf077ae0ee20f7028d9c56ed629810b2f7ba1e5fe8d"
+  },
+  {
+    "path": "figures/results/scope40201/tea.rocx",
+    "source": "research/results/scope40201/tea.rocx",
+    "bytes": 37644,
+    "sha256": "f81ff5425551948241f8ff329cec76e3c3dcaef2468c574fa4503612296361f8"
+  },
+  {
+    "path": "figures/results/scope40201/tmalign.rocx",
+    "source": "research/results/scope40201/tmalign.rocx",
+    "bytes": 39174,
+    "sha256": "955e139a250960d7ea62b380d19f66cd9b9dcb869d2fa9a34cc9b7e74c78f8b4"
+  },
+  {
+    "path": "figures/results/scope40201/gtalign.rocx",
+    "source": "research/results/scope40201/gtalign.rocx",
+    "bytes": 39390,
+    "sha256": "c7802283590e8f32ad2f866cdab52c0e97dd495e2cb18c13a5673bcc9170a241"
+  },
+  {
+    "path": "figures/results/scope40201/clalign-prott5.rocx",
+    "source": "research/results/scope40201/clalign-prott5.rocx",
+    "bytes": 38120,
+    "sha256": "3f6221f10412a21afdad4cbef8f037da970446eb174b253bbcb330037672e643"
+  },
+  {
+    "path": "data/malidup_hec.csv",
+    "source": "release/data/malidup_hec.csv",
+    "bytes": 182817,
+    "sha256": "2cb27dd8049ee7fc299b4e06394a780a91cf63530da4054afdcd8a1681406f11"
+  },
+  {
+    "path": "data/malisam_hec.csv",
+    "source": "release/data/malisam_hec.csv",
+    "bytes": 86283,
+    "sha256": "f20d215b377736e2d457f39ad74558a4595c1bd7260a156a39e2c9246d9cdd36"
+  },
+  {
+    "path": "data/scope40-test.fasta",
+    "source": "release/data/scope40-test.fasta",
+    "bytes": 577405,
+    "sha256": "d8c563ba5fcdab5f9a467e908a18df66d06febedd156c69e875d3694089b6d39"
+  }
+]

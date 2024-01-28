@@ -1,0 +1,38 @@
+{
+  "pair_id": "d1cs1a_d1q8ia1",
+  "shape": [
+    65,
+    71
+  ],
+  "models": {
+    "plmblast_plmalign_clalign": "Rostlab/prot_t5_xl_half_uniref50-enc",
+    "eba": "Rostlab/prot_t5_xl_uniref50"
+  },
+  "model_revisions": {
+    "Rostlab/prot_t5_xl_half_uniref50-enc": "94a6abc029ae13029317b140b7424e012bf8dfbf",
+    "Rostlab/prot_t5_xl_uniref50": "973be27c52ee6474de9c945952a8008aeb2a1a73"
+  },
+  "adapter_sha256": "c283b02e9d83db66d5b96eaafe4cf75b8898291b31dd50e806d2d56b64fac26c",
+  "matrices_sha256": "0373fbfa03ac1a76452e280953075e1b0a89b927e83fe6f273103706dd805d59",
+  "precision": "float32; eval mode; seed 0; TF32 disabled",
+  "device": "cuda:1",
+  "versions": {
+    "numpy": "1.26.4",
+    "torch": "2.7.0+cu128",
+    "transformers": "4.48.0",
+    "peft": "0.15.2",
+    "sentencepiece": "0.2.0"
+  },
+  "formulas": {
+    "plmblast": "global sample z-score of cosine similarity; epsilon=1e-8",
+    "plmalign": "global sample z-score of raw dot product; epsilon=1e-8",
+    "clalign": "cosine similarity of adapter embeddings; no z-score",
+    "eba": "mean of row and column sample z-scores of exp(-Euclidean distance)"
+  },
+  "eba_default": "author-original (array key: eba)",
+  "token_conventions": {
+    "plmblast_plmalign_clalign": "hidden[0, :-1]: all residues, excluding terminal EOS",
+    "eba": "hidden[0, 1:L+1]: author-original; drops first residue and includes terminal EOS"
+  },
+  "note": "Freshly computed for the case named by the notebooks; not recovered historical arrays. The saved EBA notebook output refers to a different pair and is stale. EBA uses the author-original convention. Historical benchmark files are unchanged. Current code state alone cannot establish historical execution provenance; see the separate rerun audit."
+}

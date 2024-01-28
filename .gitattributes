@@ -1,0 +1,9 @@
+# Preserve benchmark and frozen-result bytes for checksum validation.
+data/malidup_hec.csv -text
+data/malisam_hec.csv -text
+data/scope40-test.fasta -text
+figures/results/** -text
+
+# CSV row endings and empty final TSV fields are intentional.
+figures/results/*.csv whitespace=cr-at-eol
+figures/results/scope40201/*.rocx whitespace=-blank-at-eol

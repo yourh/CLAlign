@@ -1,0 +1,223 @@
+{
+  "description": "Frozen plotting inputs; paths are relative to the original research workspace.",
+  "sources": [
+    {
+      "path": "results/malidup/manual.txt",
+      "sha256": "7a471b2b980efc67b555a4746220df7ac198e8e1b979d3af3f7688e0c4662320"
+    },
+    {
+      "path": "results/malidup/plmblast.txt",
+      "sha256": "e6648aa27e4f016a354f28936a4d3cf199306e3d8dda2e34bc264924ae5d9d65"
+    },
+    {
+      "path": "results/malidup/plmalign.txt",
+      "sha256": "064f518bbecb5a72e6a29f74ef9f11376979cfafbc607543a259c2dfcd211625"
+    },
+    {
+      "path": "results/malidup/eba.txt",
+      "sha256": "5b84ee415eb9e31684c0f194e17d591aa9ad428af23168e1ccc311dac3e8a20c"
+    },
+    {
+      "path": "results/malidup/deepblast.txt",
+      "sha256": "2959f44415389c7296653d90ceade684ae2aaeda6c4bfe722a39d7065df7bcc4"
+    },
+    {
+      "path": "results/malidup/tea-nw.txt",
+      "sha256": "4f01cdd4295454f17e228a5190e1192386bb9ff5537a665efe53216a5cfb1856"
+    },
+    {
+      "path": "results/malidup/clalign-prott5.txt",
+      "sha256": "e97f2412b2f1c5d2758a4778a9e9d0f337ad81fc4ddd2d665db66e8269e0c353"
+    },
+    {
+      "path": "results/malidup/fast.txt",
+      "sha256": "579fd104013b2f8a38117070ea61f0896645175a5470106321a5495d361f8c9b"
+    },
+    {
+      "path": "results/malidup/tmalign.txt",
+      "sha256": "1dbf09e7c9aca53df8e4be1a940e20d5c8e91b9b9d7e2cfa2f18c3d0ef0d8939"
+    },
+    {
+      "path": "results/malidup/dali.txt",
+      "sha256": "c1411a7e237859c7956125bcbd25b277c5d216ec1b6b488570d4d29df0c0b8e0"
+    },
+    {
+      "path": "results/malidup/gtalign.txt",
+      "sha256": "4c8402a48931a2b7a6c48315321d6d303e0afb2989d33aa18511412c2bf5704c"
+    },
+    {
+      "path": "results/malidup/clalign-esmif.txt",
+      "sha256": "f02f7f9c493e36dcf0d03ba74cd33a95d8548f0721381e976fcccf15e30a27b7"
+    },
+    {
+      "path": "results/malisam/manual.txt",
+      "sha256": "b18fc77cf8db4072d090fdb7aff35da9538630e27478926d9acacb11610bd302"
+    },
+    {
+      "path": "results/malisam/plmblast.txt",
+      "sha256": "6dbab06929fb42158d110db4527b2e45c1462fd2b148b09461f607811db35ff8"
+    },
+    {
+      "path": "results/malisam/plmalign.txt",
+      "sha256": "dbdffdace8bdcc4dbe17de9357f36f53e3b3303867bcb1f327ff61af0bfce80f"
+    },
+    {
+      "path": "results/malisam/eba.txt",
+      "sha256": "df58107f7dbbeefb9b2c9eeaf279489f7df92e8781acdb9754ad031ac4b0e960"
+    },
+    {
+      "path": "results/malisam/deepblast.txt",
+      "sha256": "9382b7c82a64af426ac8c4a0a34f4fc973bcb953b7a924d924b7954f24dadc2f"
+    },
+    {
+      "path": "results/malisam/tea-nw.txt",
+      "sha256": "d34c8e34792a23d04341c97f34ff7437456366cec390f015c0dddefb25b535b7"
+    },
+    {
+      "path": "results/malisam/clalign-prott5.txt",
+      "sha256": "5768bcf51216f694e73f373c8cf2c8e5993b6d0cb696444058cd154468f7008d"
+    },
+    {
+      "path": "results/malisam/fast.txt",
+      "sha256": "a15aac0bdcc53a4e39fb341d0088aa6eda4952595a75236bf0619cd16a5e4d57"
+    },
+    {
+      "path": "results/malisam/tmalign.txt",
+      "sha256": "c9ad839b9ccc93f848a61c6f8888840302702f00cb1edf0a7e9648deb312b04b"
+    },
+    {
+      "path": "results/malisam/dali.txt",
+      "sha256": "903c7f9d87d3355977789b077d93cb2b749b3ef0febf51ca95dfb5d475e34da8"
+    },
+    {
+      "path": "results/malisam/gtalign.txt",
+      "sha256": "f35f45f6563c069ee7dc352c2e06f99727cc7561f4709e5923d9d588eaaf1ddb"
+    },
+    {
+      "path": "results/malisam/clalign-esmif.txt",
+      "sha256": "776ea6fe7d377b21e192f3814703599e69d23c0e32c65c9fdd90f51e5b90b1a2"
+    },
+    {
+      "path": "results/scope40201/plmblast.rocx",
+      "sha256": "7d4f36f412dc1da458d0641877ae99525b39dec1fd4181ee918944160881797c"
+    },
+    {
+      "path": "results/scope40201/plmalign.rocx",
+      "sha256": "07a126ca5b641237863fb660e167832e8e267743b12e1bb58372deea4e1af674"
+    },
+    {
+      "path": "results/scope40201/eba.rocx",
+      "sha256": "60a683db2aaa1a6ce93e6bf077ae0ee20f7028d9c56ed629810b2f7ba1e5fe8d"
+    },
+    {
+      "path": "results/scope40201/tea.rocx",
+      "sha256": "f81ff5425551948241f8ff329cec76e3c3dcaef2468c574fa4503612296361f8"
+    },
+    {
+      "path": "results/scope40201/clalign-prott5.rocx",
+      "sha256": "3f6221f10412a21afdad4cbef8f037da970446eb174b253bbcb330037672e643"
+    },
+    {
+      "path": "results/scope40201/tmalign.rocx",
+      "sha256": "955e139a250960d7ea62b380d19f66cd9b9dcb869d2fa9a34cc9b7e74c78f8b4"
+    },
+    {
+      "path": "results/scope40201/gtalign.rocx",
+      "sha256": "c7802283590e8f32ad2f866cdab52c0e97dd495e2cb18c13a5673bcc9170a241"
+    },
+    {
+      "path": "notebooks/malidata/figures.ipynb",
+      "sha256": "efbc2ce4c3a69d02a8ddd25e0b8a13f2de1d7eab84b30a2237b64d575a831b82"
+    },
+    {
+      "path": "notebooks/malidata/melt.ipynb",
+      "sha256": "93cae6ec0fa101c29ef35f64a8dbc1a4e6076dad0b75505af3e07f2481f371b2"
+    },
+    {
+      "path": "notebooks/malidata/heatmap.ipynb",
+      "sha256": "c5fff40a704888a54279015a047c14a4abc63d9b01252ef4a2826ac35ca66b3b"
+    },
+    {
+      "path": "notebooks/malidata/heatmap-eba.ipynb",
+      "sha256": "1c9f87043668cbd90c229d8f27641dbddeb34ebc9e8d021e50ee31129163ec3f"
+    },
+    {
+      "path": "notebooks/scope40201/figures.ipynb",
+      "sha256": "8798177fea0af7d39a8f2e69c00d1885e5c4e7f798c2729a05b3a7917f57ace9"
+    },
+    {
+      "path": "notebooks/scope40201/map.ipynb",
+      "sha256": "159a1bc957ad6a5793f9f35ff5f2e39c8219daa72d65705f9398fb3f777e03ff"
+    },
+    {
+      "path": "notebooks/gap penalty.ipynb",
+      "sha256": "55c8bffaac885c095b1424f942210596a0852937e6a0178f2c9922b4d7048213"
+    },
+    {
+      "path": "data/malisam.csv",
+      "sha256": "6e95eb70db9fc9d30061303a35969a9d43cf755fbbb9a96ab90d8a365e0c39c2"
+    },
+    {
+      "path": "data/malidup_hec.csv",
+      "sha256": "e55e4f654fa51104c73a53fb3be844c626345ec730edff0fc29098855dc5ad73"
+    },
+    {
+      "path": "data/malisam_hec.csv",
+      "sha256": "bb88dca99776eb7f1dfdfff36488ee844fc3390f307713ef8d215ba1a61a0b6e"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "malidup_tm_scores.csv",
+      "sha256": "3094a28fe8ec775a1da5fa6ba9dcde92b3f5f62af1b977652a30308dc03ed3f0"
+    },
+    {
+      "path": "malisam_tm_scores.csv",
+      "sha256": "ec8eff9fde3a8dbcd4c1a510a1aa747ba9502cee8aba9bc04db78fa930f87557"
+    },
+    {
+      "path": "scope40201/plmblast.rocx",
+      "sha256": "7d4f36f412dc1da458d0641877ae99525b39dec1fd4181ee918944160881797c"
+    },
+    {
+      "path": "scope40201/plmalign.rocx",
+      "sha256": "07a126ca5b641237863fb660e167832e8e267743b12e1bb58372deea4e1af674"
+    },
+    {
+      "path": "scope40201/eba.rocx",
+      "sha256": "60a683db2aaa1a6ce93e6bf077ae0ee20f7028d9c56ed629810b2f7ba1e5fe8d"
+    },
+    {
+      "path": "scope40201/tea.rocx",
+      "sha256": "f81ff5425551948241f8ff329cec76e3c3dcaef2468c574fa4503612296361f8"
+    },
+    {
+      "path": "scope40201/clalign-prott5.rocx",
+      "sha256": "3f6221f10412a21afdad4cbef8f037da970446eb174b253bbcb330037672e643"
+    },
+    {
+      "path": "scope40201/tmalign.rocx",
+      "sha256": "955e139a250960d7ea62b380d19f66cd9b9dcb869d2fa9a34cc9b7e74c78f8b4"
+    },
+    {
+      "path": "scope40201/gtalign.rocx",
+      "sha256": "c7802283590e8f32ad2f866cdab52c0e97dd495e2cb18c13a5673bcc9170a241"
+    },
+    {
+      "path": "hec_aggregation.json",
+      "sha256": "28d00e4238f6b01b2178cd9fd1a436cad78f28284315b07de7df8aab89cd5367"
+    }
+  ],
+  "fixed_values": {
+    "hec.py": "notebooks/malidata/melt.ipynb cells 2-5, zero-based",
+    "retrieval.py": "notebooks/scope40201/map.ipynb cells 3-5, zero-based",
+    "gap_penalty.py": "notebooks/gap penalty.ipynb cell 1, zero-based"
+  },
+  "notes": [
+    "HEC constants match means over annotation-length-valid pairs, rounded to three decimals: 240 MALIDUP and 129 MALISAM pairs.",
+    "MALIDUP Dali includes seven explicit zero-score failures; scatter means include these rows.",
+    "ROC script includes TEA using tea.rocx; TEA was absent from the older six-method curve notebook cell.",
+    "ROC files contain 766 eligible queries, not all 2207 proteins. Curves are sensitivity up to first FP, not TPR-vs-FPR.",
+    "Heatmap arrays are freshly recomputed and have their own metadata and checksums."
+  ]
+}
